@@ -1,0 +1,16 @@
+import one from './one.png'
+import two from './two.png'
+import three from './three.png'
+import four from './four.png'
+import five from './five.png'
+import six from './six.png'
+import seven from './seven.png'
+import Instagram from './Instagram.png'
+import filterIcon from './filterIcon.png'
+import LinkindIn from './LinkindIn.png'
+import notify from './notify.png'
+import Twitter from './Twitter.png'
+import Youtube from './Youtube.png'
+import Searchicon from './Searchicon.png'
+
+export{one, two, three, four, five, six, seven, Instagram, filterIcon, notify, Youtube, Twitter,LinkindIn, Searchicon}
