@@ -5,9 +5,7 @@ const Futurednfts = () => {
   return (
     <section>
         <Box />
-        <Box 
-          colorStyle = "bg-light-purple"
-        />
+       
     </section>
   )
 }

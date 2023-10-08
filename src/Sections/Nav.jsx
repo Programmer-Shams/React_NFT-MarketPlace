@@ -16,7 +16,7 @@ const Nav = () => {
             </div>
         </div>
 
-        <div className='w-1/2 flex justify-between items-center '>
+        <div className='w-1/2 flex justify-between items-center'>
             {
                 navLinks.map((link) =>(
                     <p>{link.label}</p>
