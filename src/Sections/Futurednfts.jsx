@@ -7,6 +7,7 @@ const Futurednfts = () => {
         <Box />
         <Box 
           colorStyle = "bg-light-purple"
+          
         />
     </section>
   )
