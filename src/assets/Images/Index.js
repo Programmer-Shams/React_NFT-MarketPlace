@@ -19,4 +19,14 @@ import Frame6 from './Frame 6.png'
 import Frame32 from './Frame 32 (4).png'
 import ProfilePics from './ProfilePics.png'
 import ProfilePic from './ProfilePic.png'
-export{NFT1, NFT2, NFT3, NFT4, NFT5, NFT6, NFT7, NFT8, NFT9,NFT10, HeroImg, Frame1, Frame2, Frame3, Frame4, Frame5, Frame6, Frame32, NFTLogo, ProfilePics,ProfilePic}
+import Sata from './sata.png'
+import Binary from './Binary.png'
+import Cosmic from './Cosmic.png'
+import josmin from './josmin.png'
+import MyArt from './MyArt.png'
+import Pixel from './Pixel.png'
+import Ether from './Ether.png'
+import Com from './Com.png'
+
+
+export{NFT1, NFT2, NFT3, NFT4, NFT5, NFT6, NFT7, NFT8, NFT9,NFT10, HeroImg, Frame1, Frame2, Frame3, Frame4, Frame5, Frame6, Frame32, NFTLogo, ProfilePics,ProfilePic, Sata, Binary, Cosmic, josmin, MyArt,Pixel, Ether, Com}

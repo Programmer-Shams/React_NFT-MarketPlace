@@ -4,11 +4,9 @@ import Box from '../Components/Box'
 const Futurednfts = () => {
   return (
     <section>
-        <Box />
-        <Box 
-          colorStyle = "bg-light-purple"
-          
-        />
+        <div className='flex flex-1 flex-row justify-between w-full'>
+        <Box/>
+        </div>
     </section>
   )
 }
